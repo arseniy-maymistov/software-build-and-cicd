@@ -69,8 +69,4 @@ The report's conclusion favors **CodeQL** for SAST and **OWASP Dependency-Check*
 | `trspo3.docx` | Lab 3 report — SAST/SCA methods and tool comparison for BlogAtor |
 | `README.md` | English overview of the three labs |
 
-## Scope and Reproducibility
 
-This repository currently publishes the three lab reports. It does not contain the separate source-code projects, Makefiles, CI configuration, or automated test results needed to reproduce the implementations directly from this repository.
-
-The README therefore describes the work documented in the reports and distinguishes implemented lab exercises from the planned security-tool integration discussed in Lab 3.
