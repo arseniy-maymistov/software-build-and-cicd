@@ -20,12 +20,4 @@ C/C++ and Linux build tooling (as relevant to the reports), compilers, linkers, 
 
 ## Project Context
 
-This is an educational portfolio project based on university coursework. The README summarizes what is supported by the accompanying coursework reports; it does not imply that every listed topic is implemented in a production-ready system.
-
-## Build and Reproducibility
-
-Build and run instructions, dependencies, test commands, and sample inputs should be added after the original implementation files have been recovered and verified. Do not publish a project as runnable until those steps have been tested from a clean checkout.
-
-## Notes
-
-No standalone source tree for this folder was present in the archive. Review any process-instrumentation code carefully before publication and include only authorized, safe lab examples.
+This is an educational portfolio project based on university coursework. The README summarizes what is supported by the accompanying coursework reports; 
